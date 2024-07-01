@@ -1,5 +1,5 @@
 # 💫 About Me:
-After graduating with a Masters degree in Mechanical Engineering, and living in Japan for 6 months, I discovered Web Development, and since then have committed myself to becoming a professional developer. I enjoy developing innovative and stylish web solutions and applications.
+After graduating with a Masters degree in Mechanical Engineering, and living in Japan for 6 months, I discovered Web Development, and since then have committed myself to becoming a professional developer. I enjoy developing innovative websites and web applications.
 
 
 ## 🌐 Socials:
